@@ -65,7 +65,7 @@ a musical   歌舞剧
 there is a comedy with ZhouxingChi
 
 ***  free  time  at  home
-programme 项目  计划  节目  方案
+programme 项目 节目 计划 方案
 at  the weekend  在周末
 I like listening to music / I like to listhen  music
 headphone  耳机 听筒
@@ -115,6 +115,7 @@ Pleace keep off the grass
 tourist  information  office  旅游咨询处
 network out of order  网络故障
 *? out of order 发生故障  秩序混乱
+故障 --- breakdown； malfunction；
 
 *** in the countryside
 mountain VS hill  高山 和 山丘
@@ -182,18 +183,91 @@ a bank holiday  法定假日
 Houses  of Parliament  国会大厦
 
 *** Crime
-steal  盗窃
-burglary  入室盗窃  burglar
-thief  贼  car theft
-shoplifting  商店行窃    shoplifter 商店扒手
+steal  盗窃  stoel  stolen
+*? burglary  入室盗窃行为   burglar 入室盗窃者
+shoplifting  商店行窃行为    shoplifter 商店行窃者
+thief  贼   car theft 偷车行为
 
-rob 抢劫  robber     robbery
-mug  马克杯  （公开）行凶抢劫  mugger    mugging
+rob 抢劫  robber 抢劫者   robbery 抢劫行为
+mug  马克杯  （公开）行凶抢劫  mugger 行凶抢劫者    mugging 行凶抢劫行为
+terrorism  恐怖行为  terrorist  恐怖主义者
 
-murder  谋杀  murderer   murder
-vandal 故意破坏公共财产者
-vandalism  故意破坏公共财产的行为
-hooliganism  流氓行为  football  hooliganism
+murder  谋杀  murderer 谋杀者   murder 谋杀行为
+*? vandal 故意破坏公共财产者  vandalism  故意破坏公共财产的行为
+hooliganism  流氓行为  football hooliganism；  hooligan  流氓 阿飞
+innocent  天真的， 清白的     guilty  VS innocent
+
+*** The media
+nature  programmes  动物世界频道
+sports  programmes  体育频道
+documentary  纪录片
+morning / evening  papers  早/晚 报
+reality  TV  真人秀
+The news/film is on now
+
+*** problems at home and work
+mend the broken  machine   修补坏了的机器
+the plants are dring, did you forget water them?
+The room is untidy, We must tidy it
+put on a  plaster (创可贴)
+I've had a row with my friend. (row --- 争吵)
+computer  crashes  撞车 坠毁  破产  死机
+
+*** Cloabal  problems
+jam  果酱 堵塞  拥挤
+traffic  jam  交通拥堵
+strawberry  jam  草莓酱
+rush  hour  高峰时段
+pollute  污染
+on strike  罢工
+
+*** Have  had
+have a lesson   have a exam
+Is that you bicycle  Can i have a go?
+Do you have a moment? Can i have a word with you?
+I'm going to have my hair cut.
+I want to learn to ski but I don't have the time.  没时间
+I've got three sister / I have three sister.  非正式 / 正式
+I've got a  cold / I've a cold  非正式 / 正式   
+my house is big, it's got five bedroom and three bathroom 
+The museum's not free, you have got to / you have to pay $10 to go in.  非正式 / 正式
+过去式中  不用 got
+
+*** Go went gone
+swimming  pool  游泳池
+
+*** Do did  done
+Do you like tennis?
+yes, I do
+*? So does Matteo 
+
+What do you do ?
+I'm a student
+Do the washing-up   洗涤  洗餐具
+Doing  the gardening
+
+*** make made      制作 制造？创造？ 之意。。
+photocopy  复印机
+It makes me (feel) tired / angry /sad
+make breakfast / lunch .
+is making  some coffee /  is making dinner
+made a mistake / make an appointment / make my bed
+mess  杂乱  弄脏
+do  you homework  / do an exam
+
+*** come  came
+friends  come  and see me  some time
+come round  come across  come up ??
+
+*** Take took taken
+Take with time
+It takes Alan 20 minutes to get to work
+How long does it take to get to the station
+I want to take some japanese lessons
+It takes me 30 munites to go from my house to the nearest railway station
+                   ....to get to the ....
+
+*** Bring brought  
 
 
 
