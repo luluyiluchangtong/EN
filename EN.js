@@ -70,8 +70,8 @@ at  the weekend  在周末
 I like listening to music / I like to listhen  music
 headphone  耳机 听筒
 I chat to my friends online / on the phone ever evening 
-my best friend  comes to stay  sometimes  留宿
-I often have friends to dinner
+my best friend  *comes to stay*  sometimes  留宿
+I often  *have friends*  to dinner
 
 *** music and musical instrument
 *? plural  复数
@@ -268,6 +268,128 @@ It takes me 30 munites to go from my house to the nearest railway station
                    ....to get to the ....
 
 *** Bring brought  
+I've brought you some apples from my garden.
+When she visits me, she always brings me flowers.
+*? take(here to there)  VS   bring(there to here)
+you can take my unbrella and bring it back tomorrow
+
+*** Get got
+get a taxi / get a job / get a doctor
+get to the airport / get back
+she is ill; she's getting better; she is better
+*? Maria and David are getting married in April
+The sun is going down. It's getting dark
+
+*? from ... get to ...
+The bus from university   gets to   my house in 25 minutes
+When does the flight from Moscow   get to   London?
+
+*** Phrasal  verbs
+Turn the TV up, I can't hear it  
+Turn the TV down, It's too loud
+Don't stop, Go on talking. It's very interesting
+She turned down the invitation  (refused it)
+The plane  takes off  at 6.25 and lands at 7:50  起飞  落地
+*? coach  教练  长途汽车
+
+*** Everyday  things
+
+*** Talking
+How do you say 'book' in Spanish?
+He didn't reply to my email
+answer the phone  
+He didn't reply to my email.
+
+*** Moving
+My uncle drove a bus for ten years
+The pilot files a plane
+fly VS flew( 过去式)
+When I  arrive   at / in   HangZhou
+The train arrived in Tokyo on time
+The plane arrived late at HangZhou
+I prefer to take a bus than go by car
+*? lorry  货车
+Please pass me the sugar .  请递给我糖
+
+*** Conjunctions (连词) and connectiong words
+preposition  介词
+He works in the shop and she does also / too / as well
+seasickness  晕船    seasick  晕船的                                  
+carsickness  晕车    carsick  晕车的
+
+*** Days month seasons
+leap  猛冲  跳跃
+leap year 闰年
+365 days in a year
+7 days in a week
+*? fortnight  两个星期   half a month 半个月
+I went to the cinema    at the weekend
+
+March May    June July January
+barbecue  户外烧烤
+
+*** Time words
+the past;  the present; the future
+
+now and then  时而  不时
+*? occasionally  偶然  偶尔
+I'll be with you in a moment
+for three years, from 2008 to 2011
+
+then （过去的） 当时， （将来的）那个时候， 然后
+It's 6 o'clock now. 
+Two hours ago it started to snow. What time was it then?
+
+*** Places
+motorway  高速公路（英）  exxpressway（美）
+the beginning of the motorway
+Is Anna at home?
+No, sorry, she is out(not here for a short time)
+                  away(not here for a longer time)
+                  abroad(other  country)
+
+***  Manner  方式  态度
+He's speaking in a  *friendly*  way
+My mum always behaves in a  *friendly*  way
+you're doing that *the wrong way*
+let me show you the right way to do it
+
+*** common uncountable  nouns
+accommondation  住宿  住处
+
+*** Common adjectives: Good and bad  things
+*! good  nice  lovely  great  wonderful  excellent   very good  赞扬逐级上升
+*? dreadful  糟糕透顶的
+What's that dreadful smell?
+
+*? awful  让人讨厌的  不舒服的
+I have to get up at 5:30 tomorrow.
+Oh, how awful!
+
+I've got a great new job in New York.
+How nice! / How wonderful! / How lovely!
+*? brilliant 辉煌的  使人印象深刻的
+*? marvellous  极好的  绝妙的
+*? nasty 恶毒的  下流的
+
+*** Words and prepositions
+this book   *belongs to*   Sarah Smith.  这本书是 萨拉斯密斯 写的
+I love looking at old photographs.
+Damian apologised for being late
+You  *look forward to*  something nice in the  future  期待
+I'm  *used to*  getting up early
+A nurse looks after people.
+
+*** Prefixes  前缀
+
+
+
+
+
+*** Suffixes  后缀
+
+
+
 
 
 
