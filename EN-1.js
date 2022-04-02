@@ -1,8 +1,113 @@
 /**
-material  材料  原料
-fabric   布料  织物
+*** The Family
+niece 侄子（外甥）  nephew 侄女（外甥女）
+*** Birth, marriage  and death
+*** Parts of  the  body
+
+*** Clothes
+trainers  运动鞋
+suit  套装  西装
+sweater 毛衣  卫衣
+singular  VS  plural   单数 和  复数
+jeans  牛仔裤
+tights  紧身裤
+
+*** Describing  people
+slim  苗条
+fair  公平  展览会 (肤色) 白皙的  （头发）金色的 
+Polly has blonde hair and fair skin
+beard  络腮胡  
+moustache 小胡子
+a good-looking man
+a average-looking man
+middle-aged  中年的
+
+*** Health and illness
+have you got an aspirin?  I've got a headache.
+asthma 哮喘
+malaria   疟疾
+cholera  霍乱
+jog  慢跑
+
+*** Feelings
+
+
+*** Conservations: Greetings and wishes
+Thank you VS  cheers(感谢 非正式)
+goodnight VS Sleep well
+I've got a cold ,  Bless you!
+
+*** Conversation：useful  words  and expression
+anyway  不管怎样  总之
+I'll drive you home. I'm going that way anyway. 反正我要走那条路
+Anyway, as I said, I woke up very late today. 不管怎么说，
+she’s actually  very nice. 实际上他非常好。
+I don't mind, It's up to you. 我都行，随你
+
+*** Food and drink
+mineral  water  矿泉水
+garlic  大蒜
+ginger 生姜
+
+*** In the kitchen
+freezer  冷冻室
+Can I help with the washing-up?
+Where does this cup go?  put it in the cupboard, please.
+
+*** In the bedroom and bathroom
+lamp  VS  bedside lamp
+pyjamas  睡衣
+dressing  table  梳妆台
+sink  下沉  水槽
+basin  洗脸盆
+
+*** In the living room
+shelf  架子
+bookshelf  书架
+rug VS  carpet
+chair  VS  armchair
+curtain  窗帘
+
+
+*** Jobs
+mechanic  机修工
+bank   clerk  银行职员
+
+*** At school and university
+information communication technology (ICT)
+rubber  橡胶 <英> 橡皮擦       eraser
+board  白板  
+board rubber  白板擦
+board  pen   白板笔
+you hope to pass you exams, you don't want to fail you exams
+
+*** Communications
+Letter  VS  envelope
+memory stick / USB  flash  disk  
+
+ * **  you phone
+Emial  voicemail  text message
+
+*** Holidays
+Alps  阿尔卑斯
+ferry  渡轮
+a visa 签证（附加在护照上的一张纸，或是在护照上盖章）
+currency  货币
+rucksack  帆布背包
+we want to  *try the local food* and *enjoy the nightlife*
+
+*** SHops and shopping
+Children's Department  儿童百货  提供给儿童的场所
+butcher  屠夫
+baker  面包师
+chemist  化学家  药剂师
+Cround  Floor  VS  first  floor
+I don't have any change( 零钱)
+here is you receipt( 发票 收据)
 
 *** shoping online 
+material  材料  原料
+fabric   布料  织物
 tops  上装
 jumpers 连体装
 *? search for the best price
@@ -358,7 +463,7 @@ let me show you the right way to do it
 accommondation  住宿  住处
 
 *** Common adjectives: Good and bad  things
-*! good  nice  lovely  great  wonderful  excellent   very good  赞扬逐级上升
+*! good  nice  lovely(可爱的 迷人的 令人愉快的)  great  wonderful  excellent   very good  赞扬逐级上升
 *? dreadful  糟糕透顶的
 What's that dreadful smell?
 
@@ -381,17 +486,19 @@ I'm  *used to*  getting up early
 A nurse looks after people.
 
 *** Prefixes  前缀
-
-
-
-
+exwife 前妻   exboyfriend 前男友
+a half-brother 同父异母 或 同母异父
 
 *** Suffixes  后缀
+instructor 教练 导师   coach
+gas cooker 燃气灶
+It's important not to  *make careless mistake*  in you home work
+bottle  opener  开瓶器
 
-
-
-
-
+*** Words you may confuse
+fell  felt  感受
+fall  fell  摔落 
+morning  noon afternoon evening  night  midnight
 
 
 
