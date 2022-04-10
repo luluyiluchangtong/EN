@@ -1,6 +1,16 @@
 /**
+* todo  词典中 7500 个 星号单词的学习。
 *** The Family
-niece 侄子（外甥）  nephew 侄女（外甥女）
+niece 侄子（外甥）  nephew 侄女（外甥女） cousin （堂/表）兄妹
+*! reltive(adj):  相对的 比较的  亲戚  关系从句  关系代词
+There was relative calm / after  / the violence of the privious night /.
+I'think we work very hard, but It's （all） relative. 但这完全是相对而言的
+How did the control group students do  / relative to /  the hole class.
+a distant relative of the domestic cat.   家猫的一个远亲
+*! relatively(adv): / relatively speaking, thie work is well paid.
+ relativism:  相对主义   relativist  相对论者
+ relativity： 相对论
+
 *** Birth, marriage  and death
 *** Parts of  the  body
 
@@ -192,7 +202,7 @@ trumpet  小号
 drum tower  鼓楼
 iron drum 铁桶  oil  drum  油桶
 
-orchestra 管弦乐团
+orchestra 管弦 (xian)乐团
 symphony  交响乐团
 
 Emily is having a piano lesson
@@ -290,17 +300,21 @@ Houses  of Parliament  国会大厦
 *** Crime
 steal  盗窃  stoel  stolen
 *? burglary  入室盗窃行为   burglar 入室盗窃者
-shoplifting  商店行窃行为    shoplifter 商店行窃者
+*? shoplifting  商店行窃行为    shoplifter 商店行窃者
 thief  贼   car theft 偷车行为
 
 rob 抢劫  robber 抢劫者   robbery 抢劫行为
-mug  马克杯  （公开）行凶抢劫  mugger 行凶抢劫者    mugging 行凶抢劫行为
+mug  马克杯  （公开）行凶抢劫  
+*? mugger 行凶抢劫者    mugging 行凶抢劫行为
 terrorism  恐怖行为  terrorist  恐怖主义者
 
 murder  谋杀  murderer 谋杀者   murder 谋杀行为
 *? vandal 故意破坏公共财产者  vandalism  故意破坏公共财产的行为
-hooliganism  流氓行为  football hooliganism；  hooligan  流氓 阿飞
+*? hooliganism  流氓行为  football hooliganism；  hooligan  流氓 阿飞
 innocent  天真的， 清白的     guilty  VS innocent
+
+*? 入室盗窃 / 商店行窃； 流氓 故意破坏公共财产者； 行凶抢劫者
+burglary  shoplifting;  hooliganism  vandal;  mugger
 
 *** The media
 nature  programmes  动物世界频道
@@ -322,6 +336,7 @@ computer  crashes  撞车 坠毁  破产  死机
 jam  果酱 堵塞  拥挤
 traffic  jam  交通拥堵
 strawberry  jam  草莓酱
+sauce  调味汁
 rush  hour  高峰时段
 pollute  污染
 on strike  罢工
@@ -463,7 +478,8 @@ let me show you the right way to do it
 accommondation  住宿  住处
 
 *** Common adjectives: Good and bad  things
-*! good  nice  lovely(可爱的 迷人的 令人愉快的)  great  wonderful  excellent   very good  赞扬逐级上升
+*? good  nice  lovely(可爱的 迷人的 令人愉快的)  great  wonderful  excellent   very good  赞扬逐级上升
+
 *? dreadful  糟糕透顶的
 What's that dreadful smell?
 
