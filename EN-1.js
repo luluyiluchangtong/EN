@@ -252,6 +252,7 @@ cock  公鸡   hen  母鸡   chicken  鸡  鸡肉
 *? goat  VS  kid；   小山羊
 *? pig  VS piglet；  小猪仔
 *? chicken  VS  chick； 小鸡仔
+*? cat  vS  kitten；  小猫咪
 
 pet  宠物
 tortoise  乌龟
