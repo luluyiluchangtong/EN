@@ -24,7 +24,7 @@ tights  紧身裤
 
 *** Describing  people
 slim  苗条
-fair  公平  展览会 (肤色) 白皙的  （头发）金色的 
+fair  公平  展览会    (肤色) 白皙的 （头发）金色的 
 Polly has blonde hair and fair skin
 beard  络腮胡  
 moustache 小胡子
