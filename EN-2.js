@@ -90,9 +90,9 @@ stressed syllable begins.
 
 punctuation 标点符号
 comma / full stop / question mark
-marvellous  极好的  绝妙的 
+*? marvellous  极好的  绝妙的 
 It is beautiful city and I had a marvellous time
-brilliant  成功的 辉煌的
+*? brilliant  成功的 辉煌的
 
 * todo 4/17
 What type of verbs are /pick somebody up/ and /grow up/?  phrasal  verbs
@@ -224,6 +224,60 @@ practical  实际的  心灵手巧的
 sensible 理智的  可感觉的
 
 *! describing  appearance  and  character
+
+* todo 4/18
+Feeling is often plural, e.g. She doesn’t like talking about her feelings
+curious  好奇的    curiosity 好奇
+jealous  嫉妒的    jealously  嫉妒
+anxious  焦虑的    anxiety  焦虑
+
+
+天气对我们心情的影响。
+The effect of weather / on / our feelings
+Why do people feel /cheerful/ when the sun shines,
+and /miserable/ when it's raining?
+天气对我们情绪的影响
+The effect of colour on our emotions
+
+红色让人充满活力
+Red can make us feel energetic
+慈母般的关爱
+maternal love
+
+emotion  情绪   emotional  情绪的   A  emotional person
+早上我觉的很有精力，下午我觉得很累
+I'm much more energetic in the morning. By the afternoon I feel tired.、
+flight  VS  fright （惊恐  害怕）
+
+stepfather  继父
+I have a brother, younger or elder?
+I have got an elder brother.
+
+my mother is an only child.  是一个独生子
+I have got two uncle on my father's side.  
+（在外国，父母亲的兄弟姐妹都是 uncle 或 aunt，所以要强调是  on father' side） 
+
+我叔叔结婚了并有两个孩子
+My uncle has got married with two children.
+
+我们相互认识是从同一个学校同一个班开始的。
+We /got to know each other/ when we were in the same class at school
+We have been /mates/ ever since.  从那时起我们就成为朋友了
+
+mate is an informal word for a friend
+We have been   /mates/  ever since。
+
+双胞胎是由一个母亲同一时间生出来的。
+twins are two children  / born to nne mother /at the same time.
+
+* todo  4/21
+
+
+
+
+
+
+
 
 
 

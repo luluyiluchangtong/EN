@@ -10,6 +10,8 @@ a distant relative of the domestic cat.   家猫的一个远亲
 *! relatively(adv): / relatively speaking, thie work is well paid.
  relativism:  相对主义   relativist  相对论者
  relativity： 相对论
+relation： 联系 关系 亲属
+
 
 *** Birth, marriage  and death
 *** Parts of  the  body
