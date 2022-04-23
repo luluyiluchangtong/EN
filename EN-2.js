@@ -271,6 +271,210 @@ We have been   /mates/  ever since。
 twins are two children  / born to nne mother /at the same time.
 
 * todo  4/21
+birth  baby
+toddler  一岁到三岁的学步儿童
+childhood（3-12）  teenager（13-18） adult（18+）
+middle-age（40+）  retirement（60/ 65） 
+elderly(80+)
+
+我二十出头
+I'm  / in my early twenties.
+Amelia is 35, so she’s in her / mid-thirties /
+*? middle-thirties     early twenties
+
+我父母五十多岁了
+my parents are  / in their mid-fifties
+
+我祖母七十多岁了
+my grandmaother is   / in her late seventies.
+
+my grandmother was dead when I was /in my teens/
+manage 管理 经营  
+manage  to  do
+*? 设法做到
+I /managed/ to pass my exams === I was /able/  to pass my exams but it wasn’t easy
+
+you are not allowed to smoke in that room
+*? (Not It's not allowed.) somebody be not allowed to do sth
+
+他在农场被养育长大
+He was / btought up / on a farm .
+
+他和我差不多年龄。
+She’s approximately my age.  
+
+date  日期 优幽会
+我第一次约会是在我16岁时。
+I had my first date when I was 16
+
+beak  up  打碎 结束
+
+我认识玛丽是因为我们在同一堂课上。
+I /got to konw/ mali because we were on the same course
+我们离开大学几年后便订婚了。
+we  got engaged a couple of years after we left university.
+
+we /had the wedding/ in the local church near Mali's home.
+and then / had the honeymoon to Greece.
+Just over three years later Mali  /got pregnant/  玛丽怀孕了
+
+*? reception （婚礼之后的招待会）
+1 The big party you have after the wedding. 
+
+bride  groom  新浪 新娘
+
+*? date  约会
+A romantic meeting you plan before it happens.
+weekday 平日  工作日
+week  星期  周
+have a late night /  have a early night   晚睡  / 早睡
+go to sleep === fall asleep
+my mum wakes me up everyday at 7:30.   wake up (叫醒)
+I usually go to sleep / straight away / （immediately）  马上  即刻
+*? cereal  谷类食物
+
+have a heavy breakfast, moderate lunch and light dinner
+丰富的早餐，适中的午餐，少量的晚餐
+
+If Mum's late home from work, she doesn't bother to cook;
+we just get a takeaway instead.   
+*? bother( 费心 烦恼 打扰 )
+bother to do sth  费心做某事
+bother with  为什么而费心
+I don't bother with a full meal at lunchtime;I usually just have a light lunch
+have a bath  浴缸浴   have a shower 淋浴
+
+make-up 化妆品    
+put on make-up 化妆  make-up examination 补考
+have a shave(剃须， 刮脸)
+
+I sometimes / do the shopping / with Mum
+go shopping (leisure activity)  闲暇时间里的购物活动
+do the shopping (a housework or is part of the routing) 当作家务活或日常需要做的购物活动
+
+spare  备用的  空闲的
+spare time  消遣时间 ===  free time
+*? leisure  闲暇  空闲
+leisure industry 娱乐产业
+leisure  area  休闲区
+
+I / eat out / at the weekend, usually in a Chinese restaurant.  周末出去吃
+sometimes friends  / come round to / the flat and we play computer games.
+
+balcony  阳台
+It's a modern / block of flats /   这是一幢时尚的公寓楼
+
+accommodation  住宿  住处
+apartment（公寓 套间）【us】 === flat(平的  公寓)【uk】
+rent 租  rent  a  flat
+own 拥有 自己的   own  a  flat
+
+* todo 4/23
+one-bedroom flat   一居室的公寓
+four-bedroom house   四居室的套房
+
+*? en-suite bathroom
+我们的卧室有一个配套的浴室。
+Our bedroom has an en-suite bathroom
+
+guest  客人  来宾
+guest  room  客房
+*? utility room  杂物间
+There is a  small ultility room where we keep the washing machine.
+
+*? kettle  水壶
+electric kettle 电热水壶
+tile  瓷砖
+washbasin 脸盆
+*? cushion  靠垫
+some people like big soft sofa with lots of cushions    软沙发
+some people like firm armchairs       硬的手扶椅
+
+wooden floor with a rug / carpet 有地毯的木地板
+*? blinds 百叶窗， 盲人（的复数）
+*? duvet 羽绒被
+sheet  床单
+quilt  被子
+quilt  cover  被套
+blanket  毯子  覆盖
+pillow  枕头
+有些人喜欢床单和毯子， 而我喜欢羽绒被
+Some people like a sheet and blanket , but I prefer a duvet .
+*? spare room  空房子 
+we often have guests to stay, but fortunately we've got a spare room.
+
+notes and coins  and change  纸币 硬币 和零钱
+*? sterling 英镑  （只能做名词 不能做量词 即 不能是  one /two sterling
+英镑的全称是  pound sterling
+In the UK the currency is sterling(英镑)
+a  one-pound  ten-pound /  note
+a fifty-pence piece  一块50便士
+euro  欧元
+
+我有一个银行账户好几年了。
+I have had a bank account for a few years now.
+cashpoint 自动柜员机
+
+我需要学生贷款去支付我的费用
+I had to get a student loan to pay my fees.
+*? save up
+I will save up money to buy a iPad2   储存钱买个 Ipad2
+
+this year I rent a flat with three friends of mine .
+*? hire    租用 租金  （短期）
+*? rent    租用 租金  （长期）
+*? deposit 押金 
+we had to pay one month's rent as a deposit(押金)
+*? quite good value for monney  物超所值
+but It's a  nice place, / quite good value for monney/ 物超所值
+*? landlor 房东   garage 车库
+The landlor（房东） isn't charging us to use his garage(车库)
+挣了很多钱  make a lot of  money
+欠了很多钱  owe  a  lot  of  money
+
+我试图每个月放一定数量的钱到我的英航账户里
+I try to / put in /exactly the same amount of money / into /my bank account every month
+I had  to / pay back / a lot of money to the bank last year.
+
+tablet  pill 药片  药丸
+
+我切到手了， 它在流血
+I've cut my arm; it's bleeding.
+用绷带包扎下
+put a bandage round it.
+certain parts of the body  身体的某个部位
+
+*? ache   （某些部位的伤痛；） 
+*? hurt   （突然且严重的伤痛；）
+*? pain    
+I hit my leg on the table and it really hurts
+hepatitis  肝炎
+illness  长期生病的一个状态   比 sickness 正式些    disease 通常指比较严重的疾病。
+我喉咙痛
+I'm getting a sore throat
+我发烧了
+I've got a temperature
+I've got backache / flu / cancer（ 注意这里没有  a）
+my back aches from sitting at that computer all day.
+
+* todo 4/24
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
