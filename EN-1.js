@@ -249,10 +249,10 @@ small town(6000 people)  VS  village( 700 people)
 cock  公鸡   hen  母鸡   chicken  鸡  鸡肉
 各个动物的幼崽称呼：
 *? horse VS foal；   小马驹
-*? cow VS calf；     小牛犊
-*? sheep  VS lamb；  小羊羔
+*? cow VS calf；     小牛犊   beef 牛肉    veal 小牛肉
+*? sheep  VS lamb；  小羊羔   lamb
 *? goat  VS  kid；   小山羊
-*? pig  VS piglet；  小猪仔
+*? pig  VS piglet；  小猪仔   pork  猪肉
 *? chicken  VS  chick； 小鸡仔
 *? cat  vS  kitten；  小猫咪
 
@@ -339,7 +339,11 @@ computer  crashes  撞车 坠毁  破产  死机
 jam  果酱 堵塞  拥挤
 traffic  jam  交通拥堵
 strawberry  jam  草莓酱
+
 sauce  调味汁
+saucepan  深平底锅
+sausage  香肠
+
 rush  hour  高峰时段
 pollute  污染
 on strike  罢工

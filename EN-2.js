@@ -446,7 +446,8 @@ certain parts of the body  身体的某个部位
 
 *? ache   （某些部位的伤痛；） 
 *? hurt   （突然且严重的伤痛；）
-*? pain    
+*? pain  
+*? sore  （发炎的）疼痛   soar 急升  高飞  
 I hit my leg on the table and it really hurts
 hepatitis  肝炎
 illness  长期生病的一个状态   比 sickness 正式些    disease 通常指比较严重的疾病。
@@ -458,27 +459,92 @@ I've got backache / flu / cancer（ 注意这里没有  a）
 my back aches from sitting at that computer all day.
 
 * todo 4/24
+smart  聪明的  衣着得体的
+The woman looks stylish 看上去时尚的，高雅的
+The man is  /smartly dressed/
+The boy's clothes are more casual.
+*? smart stylish casual
 
+*? sleeve   袖子  套筒
+*? collar  领子  领口
+zip  拉链  邮政编码  压缩文件
 
+*? undo   do up   change into
+I prefer jackets with a zip; it’s easier to / undo (解开 松开)/ a zip  and it’s also much
+quicker to / do it up / （收拾 整理）
 
+When I get home from work, I usually /change into /a pair of jeans
+undo the top button of my skirt  解开衬衫的上面的扣子
+jew  犹太人
+jewellery  珠宝  首饰
+丽丽 穿着紫色衣服很好看
+Lili looks really  nice in purple.
 
+try on clothes   试衣服
+If I buy a trousers, I buy a shirt or top /to go with/ it. 买一件上装或衬衫搭配
+My wardrobe is full of clothes that I buy and  / hardly / ever wear. 几乎都不穿 
+*? designer labels 品牌服装
+I like to buy *designer labels*, even though they are more expensive
+*? fashionable clothes  时尚服装   reasonable  合理的
+I like wearing *fashionable clothes*, but the price has to be reasonable
+*? in fashion
+I never buy clothes just because they are in fashion
+*? dress in
+I like to dress in clothes that are casual but still look quite fashion
+*? match VS good with;   suit VS fit
+sth match sth (颜色 款式相配) VSVS sth good with sth（不同的样式，但却是更好的搭配）
+clothes suits(款式适合你) you / fits（尺寸适合你） you
 
+can'I help you?
+*? No, I'm being served, thanks.  当已经有一个服务员在为你服务时，另一个服务员询问你时的回答
+或者  I'm looking for ... a top /..
+I've just tried on this jacket  *in a size 12*,but It's too tight.
+*have you got it* in a bigger sizs.  
+NO,. 
+*? Ok *I'll leave it* thanks.
+yes,. 
+*? *I'll take it*
+changing  room   更衣室
+that's a shame === that's a pity
+Those trousers suit you === those trousers good on you
 
+trolley  手推车
+checkout  超市的结账台
+special offer  优惠活动
+I'm more likely  to buy something if it's a special offer.
 
+*? refound  replace
+get a refound / give you a refound  退款
+replace  things  换货
 
+shopping center  VS  street market VS supermarket  购物中心 和  街市
 
+*? haggle 讨价还加  争论
+you can  / try to agree a lower price / for something / you buy in a street market.
+Do you haggle for things when you're shopping
 
+grapes  葡萄     bunch of grapes  一串葡萄
+coconut   椰子   pepper  辣椒       
+*? aubergine  茄子   courgette  绿皮南瓜
 
+broccoli  花椰菜  spinach   菠菜
+lettuce  生菜   cabbage  卷心菜   
 
+vinegar 醋   sala dressing  沙拉酱
+shrimp  虾 小虾    prawn  对虾 明虾    lobster  龙虾    mussels  贝壳类
+odd  even 奇数  偶数  
+odd 奇数  反常的
 
+boil 煮
+*? roast VS bake
+roast / bake  烘烤
+you roast(with oil) meat in the oven  / bake(without oil) cakes in the oven
 
-
-
-
-
-
-
-
+*? grill VS barbecue
+grill  烧烤架  
+you grill toast or meat under a  grill 
+barbecue  户外烧烤
+you can barbecue meat and fish on a barbecue
 
 
 
