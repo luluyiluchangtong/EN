@@ -132,7 +132,8 @@ add it to your basket
 
 *** in a hotel
 reception 接待处
-counter   柜台
+counter   柜台  计数器  相反的
+checkout  超市的结账台
 
 luggage baggage  均指 行李 的意思
 suitcase         特指 手提行李箱  
@@ -145,7 +146,7 @@ can I have wake-up call at 6:30, please?
 ***eating  out
 take-away  外带 
 fast food restaurant 快餐
-dessert  （餐后）甜点
+*? dessert  （餐后）甜点
 Are you ready to order?
 how would you like your steak - rare,medium, well-done
 
@@ -342,6 +343,7 @@ strawberry  jam  草莓酱
 
 sauce  调味汁
 saucepan  深平底锅
+frying  pan  煎锅
 sausage  香肠
 
 rush  hour  高峰时段

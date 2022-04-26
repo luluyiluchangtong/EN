@@ -530,11 +530,12 @@ coconut   椰子   pepper  辣椒
 broccoli  花椰菜  spinach   菠菜
 lettuce  生菜   cabbage  卷心菜   
 
-vinegar 醋   sala dressing  沙拉酱
-shrimp  虾 小虾    prawn  对虾 明虾    lobster  龙虾    mussels  贝壳类
+vinegar 醋  soy sauce 酱油  sala dressing  沙拉酱
+shrimp  虾 小虾    prawn  对虾 明虾    lobster  龙虾    mussels  贝壳类   (muscle)
 odd  even 奇数  偶数  
 odd 奇数  反常的
 
+*? 煮 煎 炒 蒸 烘烤 炖（stew）
 boil 煮
 *? roast VS bake
 roast / bake  烘烤
@@ -545,6 +546,46 @@ grill  烧烤架
 you grill toast or meat under a  grill 
 barbecue  户外烧烤
 you can barbecue meat and fish on a barbecue
+
+peel 剥皮 剥去
+peel the potatoes, chop an onion
+*? stir  搅拌
+then stir it all for a few mitutes
+chef  厨师   VS  chief(主席)
+*? tasty 美味
+米其林的食物很美味
+Michel's food is very tasty.
+*? spicy  辛辣的
+India food is a bit too spicy for me
+*? flavour  风味
+you get ice cream in different flavours
+strong, dark chocolate.  浓郁的黑巧克力
+*? sour VS sweet VS bitter VS spicy  酸 甜  苦  辣
+
+/ cross out /the wrong word in each sentence  划掉每句里的错误单词
+cooked  VS  raw  熟的 和  生的
+
+recite  背诵
+recipe 食谱  配方
+reside  居住  存在于  reside at HangZhou / Happiness doesn't reside in strength or money
+reception 接待处
+recess  休庭   （课间）休息
+
+*? ingredient 材料  佐料
+I bought all the food I needed for the dish, you bought all the ingredients
+Having a fantastic taste /delicious/.  The opposite is  /horrible/
+
+* todo 4/27
+
+
+
+
+
+
+
+
+
+
 
 
 
