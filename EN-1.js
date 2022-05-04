@@ -236,15 +236,16 @@ network out of order  网络故障
 故障 --- breakdown； malfunction；
 
 *** in the countryside
-mountain VS hill  高山 和 山丘
+mountain VS hill VS valley 高山 和 山丘 和 山谷
 forest  VS  wood  树林 和 树木
 *? cottage  小屋  乡村别墅
 My friend lives in a cottage(小屋  乡村别墅)
 I love nature, I like walking in the countryside.
 A big national conservation area  一个大型自然保护区
 have a picnic  野餐
-country  road  VS  path  乡村道路 和 羊肠小道
+country  road  VS  path  VS footpath  乡村道路 和 羊肠小道 和  山间步行道
 small town(6000 people)  VS  village( 700 people)
+field AND  fence  田地 和 围栏
 
 *** Animals
 cock  公鸡   hen  母鸡   chicken  鸡  鸡肉
@@ -376,7 +377,7 @@ Do the washing-up   洗涤  洗餐具
 Doing  the gardening
 
 *** make made      制作 制造？创造？ 之意。。
-photocopy  复印机
+photocopier / duplicator   复印机
 It makes me (feel) tired / angry /sad
 make breakfast / lunch .
 is making  some coffee /  is making dinner
@@ -437,7 +438,7 @@ When I  arrive   at / in   HangZhou
 The train arrived in Tokyo on time
 The plane arrived late at HangZhou
 I prefer to take a bus than go by car
-*? lorry  货车
+*? lorry / truck 货车   van 小型货车
 Please pass me the sugar .  请递给我糖
 
 *** Conjunctions (连词) and connectiong words

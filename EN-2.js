@@ -1,7 +1,7 @@
 /**
 *** learning  vocabulary
-review  评论  复习
-revise  修订  复习
+review  评论  复习[US]
+revise  修订  复习[UK]
 bilingual  dictionary   双语词典
 filthy  及其肮脏的  dirty --> filthy
 死了的， 活着的： dead  alive
@@ -122,6 +122,7 @@ Which reached  / a temperature of minus 89 ℃ /
 the ground was covered with snow
 the Amazon rainforest covers 40% of South America.
 We covered ten miles in one day.
+miels  kilometre  公里 和 英里
 
 switzerland: 瑞士
 switzerland is a land of constracts.  瑞士是一个充满反差的国家。
@@ -576,6 +577,240 @@ I bought all the food I needed for the dish, you bought all the ingredients
 Having a fantastic taste /delicious/.  The opposite is  /horrible/
 
 * todo 4/27
+I couldn't find a /car park ; I couldn't find a /parking space/
+The work is very / stressful /, and I feel a bit of /stressed /, after work I fell / exhausted./
+In the rush hour, I often get stuck in traffic jams.
+*? advantage  优势  促进   advance  前进  促进
+one of the advantages of living in the city is the nightlife
+I walk home at night if I'm with a friend. 
+*? when I'm on my own , I get a taxi  当我独自一人时，我打车
+你会实实在在的和不同国籍的人生活在一起   a mix  of
+you get a real mix of people and nationalities in a big city
+there is a wide /variety/ of shops in the town center.
+
+the place is always / full of activity / very lively
+hurry up VS  in a hurry
+buy clothes, not suit for me . I'll /leave/ it; 
+there was nowhere to / leave / the car 
+there is always something ( going on / happening ) in a big city
+
+*todo 4/28
+I like being in the countryside === I like being surrounded by nature
+The open spaces ;  the fresh air
+*? keep a few animal ;  grow crops like  barley( 大麦 ), wheat（小麦）
+在乡村居住的优势和劣势
+the advantages and  disadvantages of living in the countryside
+
+bicycle --》 cyclist --》 cycling to work
+bus train plane bicycle 都是 get on / off;
+只有 taxi  是  get in / out
+车票 和 飞机票  bus fare VS airfair
+platform 平台  月台    taxi rank  出租车候车处
+
+I go to work by bus, It's only three stops.   stop  只有三站
+get the coach to Hangzhou; fly to Hangzhou.  fly   fly the  plane
+I've got a bus stop round the corner 附近有一个公交站
+get in the car and fasten his seat belt.   fasten 系好安全带
+we had a terrible journey from airport to our hotel.    journey 远的 近的旅程都可以用
+
+junction  （路的）交叉口     
+bend  弯曲  弯道  a bend in the road
+pedestrian crossing  人行横道   pedestrian street  步行街
+
+road sign  路牌（路上的警示牌）  
+例如:[speed limit] 限速 30 公里的牌子  [no overtaking] 禁止超车
+
+slow lane 慢车道    fast lane  快车道
+*? end up (意外的)最终到达， 结果 ;  take the wrong turning（拐错弯）
+/ take the wrong turning / just before I got there, and I / ended up / in a supermarket.
+*? via
+I went through LinAn to get to HangZhou, === I went to HanZhou via LinAn
+
+sidewalk【美】 pavement【英】  人行道
+pedestrian   步行者  行人
+roundabout 环岛
+swerve  突然转向  急转弯
+He was lost control of the car, he had to swerved to avoid a car on the other side of the road
+
+*? A pedestrian -  a young boy - / stepped off the pavement /and /into/ the road just as
+*? a car was approaching. The drive /braked/, but the car /swerved/ and crashed into a parked car
+*? on the opposite site of the road. both car were quite badly damaged.
+
+* todo 4/30
+*? vending mathine  售卖机
+*? vacancy  空缺  空房    No vacancies 无空房
+*? unattended 无人看管的  未被注意的
+unattended Setup  自动安装
+unattended  operation  自动操作
+please don't leave bag unattended / down and walk away
+
+lean  （身体）倾斜的  精简的
+Do not lean out of the window  不要将身体倾斜到窗外
+lean production  精益生产
+fragile  易碎的     fragile  goods 易碎商品
+
+荧光笔  a hightlighter pen
+socket VS plug  插座 和 插头
+*? rub  out
+use a rubber to rub something out
+将DVD 或 电视机 的插头插上
+*? plug in
+plug in the DVD player / plug in the television
+*? swap  交换 交易
+Anna, could you swap places with Li
+
+pupil  学生 （尤指小学生）
+*? break  打碎  刹车 课间休息
+There's usually a one-hour lunch break, and  a break in the morning and afternoon as well
+pupils usually take exam before they break up
+*? divided into
+The school day is divided into about 5-7 lessons.
+The school year is usually divided into three terms
+*? vocational training
+They can go to a college for vocational training
+vocation  VS  vacation
+
+math [USA]    maths [UK]
+lipstick  口红
+wearing  lipstick  涂口红
+
+*? accent  口音  腔调
+Is her pronunciation good? No, she has quite a strong accent
+
+pick up  拾起  毫不费力的学会
+He picks things up very quickly.
+I'm always willing to experiment with language.
+do / write an essay  写论文
+
+*? candidate  候选人  考生
+there are 100 candidates taking the exam
+
+*? vowels; consonants  元音  辅音
+A and E are vowels; B,C and D are consanants
+I make mistakes === I get things wrong.
+We need to do some exam  preparation  考前预习
+*? get through === finish
+get through the coursebook === finish the coursebook
+
+library VS laboratory
+most degree courses last three years. although some take longer.
+study for a degree ; get a degree
+本科生  undergraduate  students studying for their first degree are called undergraduate
+毕业生  graduate       When they complete their degree, they are graduate.
+研究生 博士  postgraduate    to do research for a PhD
+you have to get a good grades in you final school exam. and you can went to university.
+*? go on to do 
+some graduates go on to do a Master's.
+
+brick 砖块  tile  瓷砖
+carpenter 木工
+plumber 管道工
+electrician  电工
+mechanic  机修工
+fix / repair / mend（clothes）
+accountant  会计
+
+occupation  广泛的）职业
+profession  经过专业学习的） 职业
+vocation   适合自己的）工作， 职业的）使命感
+a surgeon who /operate on/ people
+a vet /treats/ animals 兽医    
+*? (vet  === veterinary)  
+a lawyer /represents/ people with legal problems
+fire brigate  消防队
+a firefighter . When did he join the fire brigate
+a flighter pilot.  When did he join the air force
+a sailor.         When did he join the navy.
+advise VS advice  建议 和 忠告
+*? the day-to-day  日常的
+She runs the day-to-day business of the surgery
+*? income VS salary
+most workers are paid for every month, called salary
+you income is the total amount of money you receive in a year
+salary VS wage  脑力劳动 体力劳动
+there is a minimum wage  最低劳动报酬
+some people work fixed hours e.g. 9 am to 5.30pm / some people have to work overtime 
+
+what does you job involves? === what do yo have to do exactly
+*? what do you do for a living / what do you do / what's you job / 
+I'm responsible for a small team of five people
+*? extra time off
+/ extra time off / for a new mother and father when a baby is born
+
+promote  促进 提升
+I worked hard and soon I was promoted and have  a good pay rise  晋升和加薪
+they gave me an important promotion
+
+apply for a job / getting a job / promotion / resignation / unemployment
+找工作 ， 有工作， 晋升， 辞职， 失业
+I quit my job  辞职了
+the company sacked me === give me the sack  解雇
+if you interested in that job, write a letter of application
+
+file  文件   filing cabinet  存档柜
+invoice  发票
+*? show round
+sometimes he shows visitors round the factory.
+
+load  负载 工作量  装上 
+work  load  工作负载
+a load of  大量
+I'll show you how to load the software
+absent  缺勤   two of his colleagues are absent.
+the printer has run out of paper / ink  打印机纸张用完了/ 墨水用完了
+The  firm has /expanded a great deal/ in last 20 years
+
+form  表格  形成     
+former  以前的  模型 
+Aobama is a former president of America.
+
+client 业务关系长的客户   customer 业务关系短的顾客
+*? take  up  拿起  从事  占据
+I won't take up any more of you time
+James took up the position of senior partner.
+It is not difficult to take up a new career in midlife
+*? achieve a great deal of / a lot of
+if you want to achieve immediate success, you should work hard.
+I have a lot of contacts in banking === I know a lot of people in banking
+
+* todo 5/5
+*? price rise / go up / increase 
+*? price fall / go down / decrease 
+slightly, sharply, gradually, stay the same
+price has risen by 10 pence / fell from 1000 pounds to 500 pounds
+
+*? There's been 
+a gradual rise / a sharp fall in prise
+make a profit of 100 dollars, or make a loss
+
+inflation  通货膨胀  通货率  the rate at which prices increase
+interest rates  利率
+recession （经济）衰退  
+两个国家经济连续第五年增长。
+The two country has now risen for the fifth year in a row
+quarter 季度  season  季节
+the graph shows / the sales figure / for the last three years
+你们的货币对美元的汇率是多少？
+What is the value of your currency against the dollar?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
