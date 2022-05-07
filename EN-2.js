@@ -793,6 +793,80 @@ the graph shows / the sales figure / for the last three years
 你们的货币对美元的汇率是多少？
 What is the value of your currency against the dollar?
 
+costume  服装  服饰
+costume designer  服装设计师
+swimming costume  泳装
+
+ski  滑雪板
+boxing ring 拳击场
+田径  field/pitch VS track
+
+高尔夫球场   golf course
+篮球场       basketball court
+
+I don't do a lot of running these dyas
+I go running everynight at 6.30
+
+leisure 休闲 闲暇
+jog 慢跑
+*? work out  锻炼  She works out in the gym two or three times a week as well
+camp VS  tent  露营 和 帐篷
+
+*? win lost defeat beat
+西班牙对战波兰并赢得比赛
+Spain played Poland and they won the game.
+Spain won 2-0 (two to nil)
+Spain beat/defeated Polan  VS  Polan lost to Spain / Polan were defeated by Spain
+
+*? draw 绘画 平局
+Spain and Italy drew(平局) 1-1(one all) === It was a 1-1 draw between Spain and Italy
+*? score
+The final score was 2-0;  The score at half-time was 1-0
+etc. 等等    e.g. 例如
+
+个人赛 和 团队赛 individuals and teams
+tournament  比赛
+联赛 杯赛  league competition VS cup cpmpetition
+
+champion 冠军
+championship  冠军比赛  赢得比赛
+He  was the chmpion;  He won the championship
+
+大满贯（指某个领域获得过所有顶级奖项）：a grand slam
+即世锦赛  奥运会 亚运会等等赛事中都获得过冠军的
+
+superb  绝好的  极佳的
+He was a superb / incredible / outstanding  football
+There are 20  teams in the league.
+
+*! 分词   participle
+现在进行时： 主语 + be + 现在分词
+现在分词：动词 + ing 形式   （动作进行中的  主动的； 起形容词， 副词的作用）
+a crying boy; a dancing girl
+过去分词：动词 + ed         （动作完成的  被动的； 起形容词， 副词的作用）
+a broken window;  written in a hurry，the article was not good！
+动名词：具有 名词 的性质,因此在句中可以作主语、表语、宾语、定语等，有时态的变化
+Running is good exercise； Seeing is believing
+
+
+* todo 5/8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
