@@ -850,16 +850,40 @@ Running is good exercise； Seeing is believing
 
 
 * todo 5/8
+start off with  从...开始
+I want to be a good software developer, and I start off with learning english
+actor 演员  entertainer 演艺从业者
+*? what's on  注意是  on 搭配 cinema； 然后是 fancy 有兴趣去看吗？
+I look to see what's on at the cinema, and go to anything that I fancy seeing
+horror  恐怖  thriller  惊悚
 
+*? taste in 
+People's taste in music is different.
+I like going to concerts to see /groups perform live/, 
+but my dad isn't interested in /live performances/.
+*? tune VS lyrics  音律 和  歌词
+When I listen to music I am mostly intersted in the tune,
+but my brother is more intersted in the lyrics
+萨克斯 saxophone
+keyboard 键盘  电子琴
 
+composer  旋律创作   is someone who writes classical music
+songwriter  歌词创作
+music VS song（song 必须要有人声）
+composer write music; songwrite write song
+conduct 行为 指挥 conductor stands in front of an orchestra
+ballet dancer  芭蕾舞
 
-
-
-
-
-
-
-
+*? studio 录音室  演播室
+photo studio  照相馆
+recording studio 录音室
+art studio 美术室
+TV studio 电视演播室
+*? album  唱片  专辑    albums are made in a recording studio
+record an album / single 制作专辑 / 单曲
+photo album  写真集
+solo album 个人专辑
+track  路劲 轨道 （唱片或光盘上）歌曲
 
 
 
