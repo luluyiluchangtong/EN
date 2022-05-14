@@ -884,31 +884,102 @@ record an album / single 制作专辑 / 单曲
 photo album  写真集
 solo album 个人专辑
 track  路劲 轨道 （唱片或光盘上）歌曲
+people download their favourite tracks or albums from the internet
 
 
+firework 烟花   a fireworks display 烟花展  spectacular fireworks display
+firecracker 鞭炮
+*? port  harbor  beach
+port 指广泛意义上的港口，如海港城市，上海港就是Shanghai Port；
+harbor 指具体的水域，某一个港口，如天津新港就是Tianjin New Harbor；Sydney harbour
+此外还有一个类似的词 beth，指具体的泊位。
+简单的记就是一个port可以有很多harbor，一个harbor可以有很多beth
+All age groups   所有年龄段的人
 
+spectacular  壮观的
+spectator  观众
+spectator see the spectacular fireworks display
 
+红包  red envelope   对联  two-line poems
+receive money from their parents in / red eveolopes / to / bring them luck /
 
+The Spring Festival /takes place/ every year in China
+custom 习俗  tradition 传统（is a very old custom）
+if people /parade round/ the streets, they move round the streets in a group.
 
+people come from everywhere in Japan === people come from all over Japan
+The festival happens every year === the festival happens annually
 
+*todo 5/11
+city break（短假） 城市旅游
+weekend break  周末旅行
+package holiday 包价旅游  团体旅游
+The iron is broken and Sara's clothes are all creased.(折痕  起皱)
+pick up 拾起  获得 不费力的）学会
+pick up the keys from the ground
+pick up the keys from the reception desk
+where did you pick up you english?
 
+airport
+departures board；flight numbers；departure times; destinations
+check-in desk  检票处 
+check-in desk get the boarding card; 登记卡
+passport control; 
+duty-free shop;  免税店
+*? departure lounge  (机场的)等候厅，休息室，贵宾厅
+gate --- the place where you get on the plane
+when you board the plane 当你登机时
+overhead locker  行李架 （大巴，飞机等头顶的行李架）
+fasten your seat belt  系好安全带
+An announcement from a member of the cabin crew
+cabin 船舱 机舱   cabin crew 机舱机组人员
+terminal building 航站楼
+baggage reclaim 行李取回处
+board or get off the plane
+the plane departure or land
+the plane has got one-hour delay. 延迟出发
 
+dial 拨号 
+dial the number； direct-dial telephone 直拨电话
+mini-bar --- a small fridge
+bathroom / come with / a bath or shower and hair dryer
+*? room + available / fully booked
+rooms are available during the week / fully booked at weekends or during the holidays.
 
+预定 book a table / make a reservation
+*? three-course; starter(开胃菜) main course(主菜) dessert(甜点)
+many restaurants offer three-course meals which include a starter, main course and dessert
+leave a tip or sometimes the price include 10% service
+*? steak 肉排  牛排  鱼块   rare  medium or well-done
+french fries === Chips  薯条
+mineral (still or sparkling) 矿泉水 （有无气泡的区别）
+*? check in / check out
+you check in at reception and at the end of the stay, you check out
 
+*? hotel facilities(酒店设施) - 
+include: room service, internet access, air conditioning and parking,
+double/twin/single room, satellite TV 
+Are you ready to order?
+did yo book it in advance? === did you book it before you went?
 
+black coffe 清咖 （不加牛奶和糖的咖啡）
+latte 拿铁（即咖啡里加了些牛奶
+cappuccino 卡布基诺（咖啡）
 
+smoothie  奶昔 （果汁/蔬菜汁 + 牛奶/水）  主要成分是水果蔬菜      清新爽口
+milkshake      （冰淇淋 + 牛奶 + 调味品） 主要成分是牛奶 冰淇淋   浓郁香醇
 
-
-
-
-
-
-
-
-
-
-
-
+hebal tea  草药茶 （以植物的花蕾、花瓣、嫩叶、果实、根茎等为材料，经过采收、干燥、加工后制成的保健饮品
+chips VS crisps 薯片 薯条
+croissant  羊角包     waffle  华夫饼
+sandwich  panini 三明治   toastie 烤三明治
+tray  托盘  碟  do you have a tray please？
+would you like it heated up?  需要加热吗？
+to have in or take away   堂食 或 外带
+muffin 纸杯松糕 （好丽友那种
+cupcake  纸杯蛋糕
+wrap  面卷饼（KFC 的牛肉卷
+baguette  棍子面包
 
 
 
