@@ -304,8 +304,8 @@ Houses  of Parliament  国会大厦
 
 *** Crime
 steal  盗窃  stoel  stolen
-*? burglary  入室盗窃行为   burglar 入室盗窃者
-*? shoplifting  商店行窃行为    shoplifter 商店行窃者
+*? burglary  入室盗窃行为       burglar 入室盗窃者       burgle
+*? shoplifting  商店行窃行为    shoplifter 商店行窃者    lift
 thief  贼   car theft 偷车行为
 
 rob 抢劫  robber 抢劫者   robbery 抢劫行为

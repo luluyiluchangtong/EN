@@ -981,6 +981,173 @@ cupcake  纸杯蛋糕
 wrap  面卷饼（KFC 的牛肉卷
 baguette  棍子面包
 
+* todo 5/14
+*? fountain 喷泉； mosque 清真寺； cathedral 大教堂； castle 城堡
+go sightseeing;  do a bit of / a lot of sightseeing
+*? have a look around 随便逛逛
+we had a look around the shops.
+*? explore 比随便逛逛强点，带有一定的目的性
+We explored the flower market.
+*? souvenirs 纪念品
+We bought some dolls as souvenirs.(纪念品)
+*? packed with  挤满人的  拥挤的  把... 打包
+The street is always packed with people in the morning 
+*? lively 活泼的，生气勃勃的   lovely 可爱的， 迷人的
+HangZhou is a lively place, and there is plenty to do in the evening.
+*? worth + noun/-ing
+It's definitely worth visiting HangZhou
+HuangShan is worth a visit as well
+historic monument  历史纪念碑
+
+
+beach VS  cliff  海滩  悬崖
+resort  旅游胜地  度假胜地  summer resort 避暑胜地
+coast -》 beach -》 shore
+*? 散步 take a walk / go for a stroll
+*? wind VS breeze
+breeze  微风  sea breeze, spring breeze, strong breeze, fresh breeze
+get a breeze in the mountain
+
+surfing VS windsurfing 冲浪 和 风帆冲浪
+日光浴 sunbathing
+*? tan  棕褐色   sunburn 晒伤  at risk of, suncsreen  防晒霜
+lie on the beach and sunbathe and get a nice tan/suntan
+but can get sunburn without any protection
+eventhough at risk of getting skin canser
+mobile edition or PC edition 移动版 和 电脑版
+broadcasting company  广播公司
+电视广播   television broadcating   Channel
+收音机广播 radio   broadcasting     station  
+
+It said in The Times that the plane crashed in the sea.  报纸上说。。。
+According to the news on TV last nigh, the plane crashed in the sea  电视新闻上说。。。
+*? come out  出现  出版
+most newspaper / come out / every day.   
+national paper VS orignal paper  国家报纸，地方报纸
+*? celebrate 庆祝  赞美  celebrity 名声  名人
+reality TV show 真人秀  chat show 脱口秀
+documentary  纪录片
+soap opera  肥皂剧
+
+I tried to ring you / phone you this morning
+I phoned him / I gave him a ring
+
+but I couldn't get through, 
+I'm putting you through  我给你转接过去（电话）
+
+the line was engaged or dialled the wrong number or you on the phone to you mother
+dialling code 区域号码    post code  邮编
+*? text you friend;  leave a message; who is calling?; 
+
+*? abbreviation 缩写词  缩略语
+{ ASAP = as soon as possible CU = see you
+BF = boyfriend (GF = girlfriend) IMO = in my opinion [this is what I think]
+B4 = before FYI = for your information
+2DAY = today U = you
+2MORO = tomorrow THX = thanks
+Y = why? LOL = laughing out loud
+PLS = please X = kiss }
+
+* todo 5/15
+mouse mat 鼠标垫
+*? webcam 网络摄像头
+open a  existing document 打开已存文档
+open a  new document      打开一个新文档
+print it out === hard copy
+copy === soft copy
+computer crashes 电脑故障
+PC（abbreviation） is short personal computer
+hard drive / hard disk 硬盘
+operating system 操作系统
+log in / out;  log on / off;
+data stored on the hard disk.
+
+spam === junk mail  垃圾邮件
+reply to the email
+attachment  附件
+send the email with a attachment.
+*? ISP (Internet service provider)
+connect your computer to the internet and give you access to email and other services.
+to go on the internet, you need an ISP / / when you go online
+clip  夹子  剪下来的东西   video clips 视频剪辑
+social networking site 社交网站 Facebook, twitter...
+search === do an internet search
+do you delete emails regularly?
+I check my email everyday.
+
+commit 提交  承诺  干   commit a crime 犯罪
+A person who commit a crime is a criminal
+
+minor offences  轻微犯罪
+minor  轻微的  次要的  offence  犯罪  冒犯
+
+If you are found guilty
+judge VS jury  法官 和 陪审团
+
+he is under arrest for murder.  他因谋杀被逮捕了
+he is charge with robbery.      他因抢劫被控诉   
+
+outfit  全套服装  全套工具
+*? 都是监狱 jail 为判决前； prison 为判决后
+ballot （无记名）投票选举  secret ballot
+*? constituency  选区     electorate 选区的选民  
+MP（member of Parliament）国会议员
+People usualy vote for a political party because they believe in the party's idea.
+above all  最重要的是  尤其是
+
+*?greenhouse effect 温室效应
+greenhouse gases in the atmosphere creat the greenhouse effect
+many greenhouse gases, e.g.  carbon dioxide
+global warming  全球变暖
+
+dioxide  二氧化物
+carbon dioxide 二氧化碳  sulfur dioxide 二氧化硫
+methane  甲烷； ozone 臭氧； fossil 化石； fuel 燃料； asthma 哮喘
+bulb  电灯泡
+
+the environment is the air, land, and water around us
+efficient  有效率的， 又能力的
+defend / protect the village from outside attack.
+the bomb exploded inside the cafe.  炸弹爆炸
+explore 探索 探究； explode （使）爆炸
+
+*todo 5/20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
