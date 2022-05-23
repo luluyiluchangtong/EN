@@ -652,6 +652,8 @@ fragile  易碎的     fragile  goods 易碎商品
 荧光笔  a hightlighter pen
 socket VS plug  插座 和 插头
 *? rub  out
+rub     擦  摩擦
+rubber  橡胶  橡皮擦  黑板擦
 use a rubber to rub something out
 将DVD 或 电视机 的插头插上
 *? plug in
@@ -677,8 +679,10 @@ wearing  lipstick  涂口红
 *? accent  口音  腔调
 Is her pronunciation good? No, she has quite a strong accent
 
-pick up  拾起  毫不费力的学会
+pick up  拾起 (开车)接载  毫不费力的学会
 He picks things up very quickly.
+It's time for me to pick up the children from school
+
 I'm always willing to experiment with language.
 do / write an essay  写论文
 
@@ -1080,6 +1084,8 @@ A person who commit a crime is a criminal
 
 minor offences  轻微犯罪
 minor  轻微的  次要的  offence  犯罪  冒犯
+major  重大的  主要的
+*? major  minor  主要的  次要的 
 
 If you are found guilty
 judge VS jury  法官 和 陪审团
@@ -1112,19 +1118,74 @@ the bomb exploded inside the cafe.  炸弹爆炸
 explore 探索 探究； explode （使）爆炸
 
 *todo 5/20
+*? in ten days' time
+I'm going back to China in ten days' time。 去中国  待十天
+*? the other day [ a few days ago]
+my sister went to the zoo the other day. 前几天   去过动物园
+*? for the time being [暂时 目前]
+This dictionary's fine for the time being.  目前  来说是好的
+*? one day  将来某一天
+I'm sure I'll go to America one day.  将来  某一天将去美国
 
+*? take: how long we need to do something
+take me half an hour to get to school
+*? last: how long something continues
+The course /lasts for/ ten weeks.
+The battery in my camera didn't /last long/
+how long does the film last
 
+carinal numbers 基数词    ordinal numbers  序数词
+even 偶数    odd 奇数
 
+hundred  thousand  million  billion
+1，000，000   one million         一百万
+100，000，000  one hundred million   一亿
+1，000，000，000  one billion   十亿   
 
+Single VS plural 单数 复数
+4 June --- the fourth of June
+June 4th ---  June the fourth
++ - * / addition subtraction multiplication  division
+6*4=24  six multiplied  by/times four is twenty-four
+6/4 six divided by four is two
+*? work out the answer吗，,吧吧
+*? add up number
+some people are not good at adding up numbers
+0.7 === nought point seven
+010 degrees === ten degrees below zero
+2½ === two and half
 
+*? majority VS minority
+The majority were in favour of the airport about 80%, I think
+The minority did not suport the idea, but it was onlyl 5%.
 
+It's a tall tree / building    [ not hight ]
+*? dimension  维度  空间  usually with: length width height  depth
+how high is the wall?  what's the height of the wall?
+*? size       大小  尺寸  usually with: thick  huge giant narrow
+It was a very thick  book - over 500 pages.
 
+miles  英里  yards 码数  feet 英尺  inche 英寸
 
+It't ten minutes' walk from here
+about hundred yards up/down the road   沿着这条路走大约一百码
 
+swimming pool 泳池
+deep end / shallow end  最深处  最浅处    depth 深度
+*? garage  车库     grape  葡萄
+huge === enormous
 
+*? ladder 梯子   bucket 桶
+antique  古老的  老式的
+antique  shop  古董店
+pointed  尖头的  尖角的
+shoes with pointed toes
 
-
-
+rect  矩形   rectangle 长方形   square 正方形 circle  triangle  diamond（菱形）  pentagram(五角星) 
+cube  正方体  cuboid 长方体
+suffix  -ish
+She had a roundish face 略圆的脸  He wore a greenish tie  近绿色的领带
+blue      navy blue 深蓝色
 
 
 
