@@ -1043,6 +1043,9 @@ the line was engaged or dialled the wrong number or you on the phone to you moth
 dialling code 区域号码    post code  邮编
 *? text you friend;  leave a message; who is calling?; 
 
+constract  合同 收缩
+*? constraction  收缩  缩约形式
+economic constraction;  uterine constraction 子宫收缩； constraction count (e.g. don't) 
 *? abbreviation 缩写词  缩略语
 { ASAP = as soon as possible CU = see you
 BF = boyfriend (GF = girlfriend) IMO = in my opinion [this is what I think]
@@ -1186,6 +1189,65 @@ cube  正方体  cuboid 长方体
 suffix  -ish
 She had a roundish face 略圆的脸  He wore a greenish tie  近绿色的领带
 blue      navy blue 深蓝色
+
+carton  硬纸盒  用盒包装
+a carton  of orange juice  一盒橙汁
+cartoon  卡通 漫画
+
+jar  玻璃罐   a jar of jam
+jug  （有柄有嘴的）壶   a jug of water
+
+cookie 甜点   biscuits  饼干
+a can of cola    can 能  罐 听
+
+vase  花瓶  a vase of flower;  
+bunch 束  串
+
+a bunch of flower;  a bunch of grapes;  a bunch of key
+tin  锡  罐头盒
+tin wire 焊锡丝
+a tin of fruit
+*? tin（we eat inside） VS can(we drink inside)   
+Could I have /a spoonful of/ sugar in my tea?
+packet  包装盒/袋 文件包 信息包 打包
+a packet of cigarettes; a packet of biscuits;
+a drop/spoonful of cream
+
+*? won't be long     won't be a minute
+sorry to keep you waiting - I won't be long 不会太久 === I will be with you very soon
+excuse me, I won't be a minute.  马上就来
+*? there was a delay / hold-up on the underground. 延时
+My train was cancelled  取消  作废
+I overslept  睡过头
+
+excuse me; I beg your pardon;  I'm really sorry; I must apologise for;
+
+* todo 5/24
+wonder 想知道 好奇 惊讶
+could you help me?
+could you possibly help me?
+I wonder if you could help me?
+
+go ahead  去做吧， 开始干吧（同意的意思）
+Do you mind if I watch TV?
+No, go ahead.
+
+could I open the window?
+sure, go ahead.
+
+what shall we do tonight?
+we could try that new restaurant
+How about /to do something/?
+I'm afraid I....
+I'd rather do something
+
+mind 大脑 注意力 当心 不介意
+I don't mind
+what do you fancy doing this evening?
+Do you fancy listening to some music?
+
+
+
 
 
 
