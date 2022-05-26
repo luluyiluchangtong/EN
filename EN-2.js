@@ -845,10 +845,11 @@ There are 20  teams in the league.
 
 *! 分词   participle
 现在进行时： 主语 + be + 现在分词
-现在分词：动词 + ing 形式   （动作进行中的  主动的； 起形容词， 副词的作用）
+*? 现在分词：动词 + ing 形式   （动作进行中的  主动的； 起形容词， 副词的作用）
 a crying boy; a dancing girl
-过去分词：动词 + ed         （动作完成的  被动的； 起形容词， 副词的作用）
+*? 过去分词：动词 + ed         （动作完成的  被动的； 起形容词， 副词的作用）
 a broken window;  written in a hurry，the article was not good！
+
 动名词：具有 名词 的性质,因此在句中可以作主语、表语、宾语、定语等，有时态的变化
 Running is good exercise； Seeing is believing
 
@@ -1237,7 +1238,7 @@ sure, go ahead.
 
 what shall we do tonight?
 we could try that new restaurant
-How about /to do something/?
+How about /to do something/?zz
 I'm afraid I....
 I'd rather do something
 
@@ -1246,20 +1247,69 @@ I don't mind
 what do you fancy doing this evening?
 Do you fancy listening to some music?
 
+what do you think of / think about something...
+how do you feel about ....
+
+personally, I think / I feel.....
+In my opinion / 
+my view / feeling is that .... 
+
+*? agree with you totally / partly / certain extent
+certain 必然 某个 某些
+I totally / partly agree with you
+I agree with you  to a certain extent
+
+she / feels very strongly /about protecting the environment.
+I see what she mean about...
+
+*todo 5/25
+I'm really into dance music.  
+*? so am I./ me too.  really? I'm not
+
+I don't mind jazz.  Oh, I can't stand it.
+I'm not very /keen on/ folk music.
+*? Neither am I./me neighter.  带 not 的否定，用 neighter.  really? I love it
+
+*? interested in doing something
+which do you prefer in general,, tea or coffee?
+I prefer coffee to tea
 
 
+greeting 问候  farewell 告别
+introduced to a stranger in a formal situation or an informal situation
+shake hands , say hello , ,,,
 
+Hi, how's it going?
+*? not bad, thanks, and you?
 
+farewell first time: goodbye, nice to meet you.
+excuse me, could I just get past?  借过一下
 
+sue founds my wallet and my credit cards
+*? oh, thank goodness for that.  真庆幸的意思(something bad did not happen)
+goodness, It's ten o'clock
 
+first time: 
+*? hello, nice to meet you;  goodbye, nice to meet you
+with friends: by, cheers, see you, take care,
+*? I'll see you tomorrow.  Yeah, take care
 
+It's illegal to ride a motorbike without a helmet(头盔)
+Marsha’s hat is unbelievable（surprising because it is either very good or very bad]）
 
+*? unfit  不合格  不适宜 不健康
+I need to do more exercise; I’m very unfit
+*? unlikely  不可能的 不太会发生的
+They’re unlikely to get here before midday.
 
+*? unpacked  misunderstand  misheard
+I unpcaked the bags.  打开  拆开 （包裹）
+The bank overcharged me.  多收了我的钱
+I misunderstood what he said.  误解  误会
+I misheard her.  听错了
+irregular  不规则  不平整
 
-
-
-
-
+*todo 5/26
 
 
 
