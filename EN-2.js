@@ -89,7 +89,7 @@ syllable 音节
 stressed syllable begins.
 
 punctuation 标点符号
-comma / full stop / question mark
+comma / full stop / question mark / hyphen(连字符)   ：T-shirt
 *? marvellous  极好的  绝妙的 
 It is beautiful city and I had a marvellous time
 *? brilliant  成功的 辉煌的
@@ -1195,8 +1195,10 @@ carton  硬纸盒  用盒包装
 a carton  of orange juice  一盒橙汁
 cartoon  卡通 漫画
 
-jar  玻璃罐   a jar of jam
+jar  玻璃罐   a jar of jam;    traffic jam 交通拥堵
 jug  （有柄有嘴的）壶   a jug of water
+jog  慢跑
+*? jar VS jam;  jug VS jog
 
 cookie 甜点   biscuits  饼干
 a can of cola    can 能  罐 听
@@ -1299,6 +1301,8 @@ Marsha’s hat is unbelievable（surprising because it is either very good or ve
 
 *? unfit  不合格  不适宜 不健康
 I need to do more exercise; I’m very unfit
+*? fitness  合适的 健康的
+fitness club / equipment  健身俱乐部是， 健身器材
 *? unlikely  不可能的 不太会发生的
 They’re unlikely to get here before midday.
 
@@ -1310,15 +1314,69 @@ I misheard her.  听错了
 irregular  不规则  不平整
 
 *todo 5/26
+*? frustrated   懊恼  沮丧     hesitate 犹豫
+I’m frustrated by my inability to use computers
+company director   公司董事长
+professional footballer  足球运动员
+similarity  inability
+*? shrine  圣殿  圣地  visit shrine
+a sociable person   一个善于交际的人
+a reliable service  可靠的， 可信赖的
+fashionable clothes  流行的服饰
+an opinion: political, personal, reasonable m
 
+an unforgettable  experience  难忘的体验
+an unbelievable story 
+*? unforgettable  unbelievable  annual
 
+campsite is a site for camping
+*? nanny  专业的保姆    babysitter  临时保姆
+mother tongue   母语
+DJ（disk jockey） jockey: 改变 调整
+chest of drawers  五斗柜    drawer 抽屉
+cashpoint  自动取款机
+*? sbstance 物质  东西     material  材料  原料
+sunscreen（化学成分吸收紫外线）  sunblock（物理成分隔离紫外线）  都是防嗮霜
 
+word partners 单词搭配   fixed phrases 固定搭配
+I need to lose weight /put on weight.  减肥   增肥
+go on a diet; keep to the diet  节食
+*? alarm went off 
+My neighbour’s  / alarm went off / in the middle of the night.
+security  alarm  安全警报
+Her family is of great importance to her
+*? well aware
+she's well aware of the problem
+*? fast asleep, wide awake
+ava is fast asleep, bt the other two are still wide awake.
+*? expecting for a baby 
+my sister is expecting for a baby next month.
+scored the/a goal  赢得一球
+a wide choice of food;  a wide vocabulary in english
+it’s vitally important to keep fit / keep to the diet
 
+idiom  习语  方言
+*? out of the blue  突然的到訪
+They arrived out of the blue  
+*? ring a bell   听着耳熟
+Does the name Merchant ring a bell 
+*? get rid of   移除
+I think we’ll have to get rid of some of this furniture。 
+I  got here the week before last 上一周
 
+day after day 每天；  night after night 每晚
+Andy had one or two [a few] suggestions
+now and then === now and again 偶尔，  pwace and quiet,  sooner or later,
+*? make up your mind   做决定
+You’ll have to make up your mind soon. 
+for example ==== for instance
+*? just about to  正准备去干什么。。
+I just about to have lunch.
 
+have you have any ideas?
+yeah, one or two
 
-
-
+*todo 5/28
 
 
 
