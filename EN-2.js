@@ -1269,7 +1269,8 @@ I'm really into dance music.
 *? so am I./ me too.  really? I'm not
 
 I don't mind jazz.  Oh, I can't stand it.
-I'm not very /keen on/ folk music.
+*? keen on  热衷于
+I'm not very /keen on/ folk music.   
 *? Neither am I./me neighter.  带 not 的否定，用 neighter.  really? I love it
 
 *? interested in doing something
@@ -1377,6 +1378,83 @@ have you have any ideas?
 yeah, one or two
 
 *todo 5/28
+I've no idea === I don't know
+*? that / it  depends.  看情况
+Martha depends on her son for money.
+It depends on something or someone
+*? rely on;  spend on;
+Who can we rely on?
+What does he spend all his money on?
+
+I'm going to China next week. really. What for?  是吗？去干嘛嘞？
+you must be joking.  you're kidding.  express (good or bad)surprise
+have a word with somebody.  和某人单独聊聊
+*? balabala。。。- that sort/kind of thing  诸如此类的事情
+I thought he was kind of strange.
+
+can't help it  忍不住做某事。。
+but / what if / they don't improve? [what will you do if they don't improve]
+
+did you speak to nathalie.            yes, I have a word to her.
+do you know what time he'll be here?  No, I'm afraid I've no idea
+
+I can't concentrate on my work when the radio is playing.
+I'm thinking of going to China.
+
+she shouted to me.         he shouted at me.          两者意思不同的
+he threw the ball to me.   he threw the ball at me.   两者意思不同的
+*? mad  生气的 很不明智的  着迷的  
+katya is mad about Brad Pitt
+*? similar to;  different from;
+she's similar to her sister, but very different from her brother.
+
+I met them by chance.  偶然遇见
+burst into tear 突然哭起来
+The poor little girl was in tears.
+My boss is on the phone at the moment.  正在打电话
+
+in the end of;  多用于某件事情,即 “最后,终于,到头来”   
+at the end of； 多用于时间(如星期、年月、学期、季节等)或地点
+
+on business：on business 的意思为为了公事，出差。
+in business：in business 的意思为经商；在经营；在商界。
+
+out-of-date; 过时的  up-to-date 最新的
+*? in a moment; 很快   at the moment; 现在
+I'll see you in a moment.
+I can't speak to you at the moment.
+on purpose OR by accident   故意 或 失误
+
+*? fell over
+He fell over and hurt his knee.
+*? give away
+he didn't like his coat, so he gave it away.
+If you don't understant the meaning, look it up
+*? sort out   解决
+who's going to sort out the problem?
+
+she‘s svaing(up) for a new computer. 为买新电脑存钱
+put up price / rise the price
+employ / take on(雇佣)   ten new drivers next year.
+stop === give up; go away === leave;  carry on === continue
+
+*todo 5/30
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
