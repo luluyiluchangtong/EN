@@ -1439,23 +1439,63 @@ employ / take on(雇佣)   ten new drivers next year.
 stop === give up; go away === leave;  carry on === continue
 
 *todo 5/30
+*? hand out;  hand around; 
+hand around on street.  在街上闲逛
+hand out   分发          hand out red envelopes  发红包
+distribute 分发  分配   distribute  drugs       发药品
+divide  share  spread  distribute
 
+turn sth/sb down === refuse sth/sb     
+The bosses turned me down for a promotion 
+turn the light down; turn down the radio
 
+put sth off === postpone 推迟  延缓  put the game off till friday.
+leave sth/sb out === omit (遗漏 省略)   he made a list of people but left me out.  
+make up === invent   创造  发明
 
+*! make get take have do give keep miss  常用单词
+*? Make 
+‘to cause something to happen or cause a particular state’
+  I’ve made a mistake
+‘to force someone to do something’.
+  The police made us wait outside the main gates
+*? do 
+to describe a general action when we don’t know what it is, or there’s no noun
+  What shall we do this afternoon?
+  do my hair
+*? take
+The man took my name and address.  I tool the notes during the meeting
+*? take it easy; take it break
+take it/things easy.  放松一下
+Let's take a ten-minute break.  休息一下
+take the job   接受这个工作
+trying to do sth === make a effort to do sth
+make you mind === decide to do sth
 
+*? give
+'cause a certain effect'
+  All that noise has given me a headache
+  give her a ring
+  listening to Li has given me an idea
+*? keep
+'stay in a particular state or condition ' 
+ She asked us to keep quiet
+*? keep doing sth (repeat doing sth, sth often happen)
+I keep losing my glasses.   I keep getting backache
+That's good - keep it up 继续保持！
+be in hungry === give me an appetite   饿了 有食欲
+*?miss
+miss the rush hour  避开高峰时段
 
+fetch 拿来  取来  fetch imformation
+Is that the door?  Yes, I'll get it.
+I need to get my hair cut.
+I got my watch repaired today.
+Our train should (get in) around midnight
+I must contuct the travel cmpany.  (get in touch with)
+The train won't arrive before 10 o'clock.  (get in)
 
-
-
-
-
-
-
-
-
-
-
-
+*todo 6/1
 
 
 
