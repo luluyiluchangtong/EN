@@ -125,7 +125,7 @@ We covered ten miles in one day.
 miels  kilometre  公里 和 英里
 
 switzerland: 瑞士
-switzerland is a land of constracts.  瑞士是一个充满反差的国家。
+switzerland is a land of constrast.  瑞士是一个充满反差的国家。
 *? Mediterranean climate  地中海气候
 *? Everest  珠穆朗玛峰
 
@@ -1055,6 +1055,7 @@ B4 = before FYI = for your information
 2MORO = tomorrow THX = thanks
 Y = why? LOL = laughing out loud
 PLS = please X = kiss }
+*! Y don't you go with me?   abbreviation + constraction
 
 * todo 5/15
 mouse mat 鼠标垫
@@ -1213,7 +1214,8 @@ a tin of fruit
 *? tin（we eat inside） VS can(we drink inside)   
 Could I have /a spoonful of/ sugar in my tea?
 packet  包装盒/袋 文件包 信息包 打包
-a packet of cigarettes; a packet of biscuits;
+a box of matches  一盒火柴
+a packet of cigarettes; 一包烟  a packet of biscuits;
 a drop/spoonful of cream
 
 *? won't be long     won't be a minute
@@ -1496,6 +1498,145 @@ I must contuct the travel cmpany.  (get in touch with)
 The train won't arrive before 10 o'clock.  (get in)
 
 *todo 6/1
+*? bald
+my dad's going grey and my uncle is going bald.(秃头)
+going deaf; going blind;
+go and get  ===  fetch
+you stay here, and I'll go and get bags from the car.
+
+What's going on here? (happening)
+*? go out === stop working
+I touched this switch and the light   went out.
+*? go away === going on holiday
+Are you   going away   this year? (going on holiday)
+*? go for === choose
+I'm   going for   the roast beef.  (go for)
+Does this road go to the bus station. (take me to ...) 
+When I got back, the others had gone  (disappeared)
+
+*? the look of;  the sound of;
+I like the look of this hotel.
+I love the sound of his voice.
+That man sounded  foreign.  听起来像外国人
+
+nectar  花蜜  果汁
+nectarine  油桃   peache 桃子
+sound like; smell like; feel like; taste like;
+
+*? 看/听 起来好像是....  as if; as though/if + clause (从句)；  like + noun
+that boy   /looks as if/   he's trying to get over the wall
+It     /sounded as though/     they had a good time on holiday.
+*? seem  appear  似乎  seem like； look like + noun
+I saw Will and he seemed/appeared quite happy.
+It seems like a good idea.
+
+I heard what she said but I wasn't listening. 听到但没有听清
+at cinema  see a film, not watch a film
+he ran into me because he wasn't looking.(pay attention)
+
+*? experience  chance;   use as countable or uncountable
+*? making uncountable nouns countable (a bit of; a piece of)
+advice:    a good piece of advice
+rubbish:  just a  bit of rubbish
+
+*todo 6/2
+curriculum  课程   curriculum schedule 课程表；  schedule 计划表 时间表； scheme 方案
+curriculum vitae 个人简历  CV（拉丁语）
+CV 着重于学术工作，工作成果。更强调个人全面性， 用履历更贴切。 
+resume 则是学习 工作经历的一个比较简洁性的摘要。
+ID = identification   PIN = identification number
+what does EU stand for?
+
+*? 拉丁语及缩写
+et cetera    etc.   等等。。。
+id est       i.e.   也就是说~
+exempli gratia  e.g. 例如：
+
+sales rep  售货员
+
+questionnaire  问卷  调查表
+enjoy  mind  like/dislike  avoid  consider recommend  suggest（想法 感觉）  + doing  sth
+avoid driving into town in rush hour
+can you imagine being without a car
+I offered to help them  
+they went to India last year on your advice
+think of  考虑 
+ask me for advise  询问意见
+
+intent   专注的  目的
+attempt  试图  尝试的
+init  初始化               initative 积极性  倡议
+infinite 无穷的  无尽的     infinitive  动词不定式
+definitely  肯定的  明确的
+marvelous  非凡的 了不起的  wonderful  amazing
+I was delighted she passed her exam.
+fascinating  极有吸引力的 迷人的
+very+gradable adj:  said ice / good/ tired......
+absolutely / really + before extreme adj:
+absolutely marvelous
+
+embarrass 尴尬的  窘迫的
+very pleased === delighted
+very nice === marvelous  wonderful  
+very important === essential  本质的 必不可少的
+very intersted === fascinating  
+very angry === annoy
+shock === surprise   
+villa 别墅  豪宅
+at   a point;   in  a area
+The conference is being held in HanZhou
+* //not at !!!
+I saw you bike in the back garden against the wall   (touching the wall)
+beneath === underneath  在 ....  下方
+come ovet the bridge;  come under the bridge
+bunch 一束    bounce 弹起   punch 一拳
+into VS out of
+often    quite often
+never    hardly never
+
+a bit ; a slightly can't with a nuon
+a bit bored; not a bit small flat
+
+fairly 相当的  公平的  prrety / quite / rather + bnoring
+It was a fairly wet day
+walk off (suddenly walk away) with anger
+never;  hardly ever (rarely  seldom);  occasionally;  sometimes;  quit often;  often;  always
+the shop were quite busy /  fairly busy.
+completely / totally / extremly / incredibly + good
+sequence === order
+when / as soon as (similar) ..... not with future form
+* //when I will get there. 
+when I get there
+
+after seeing the film, we went home.
+while:( two long action)   the accident happend while I was on my way school
+when /as -> two short action
+I saw him just as I came out of the office
+
+after a while ( a period of time)
+firstly  secondly;  for a start  anyway; for one thing   besides;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
