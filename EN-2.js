@@ -176,6 +176,7 @@ the ground was covered with snow
 屁股： bottom  butt
 胯部： hip
 *?  切记！  butt  VS  hip
+sole 唯一的， 专用的， 鞋底
 sole  and instep 脚底 和 脚背
 heel  and  toe    脚跟 和 脚趾
 / breathe in and out / 12-15 times a minute
@@ -1565,7 +1566,7 @@ ask me for advise  询问意见
 
 intent   专注的  目的
 attempt  试图  尝试的
-init  初始化               initative 积极性  倡议
+init  初始化  initiate 开始实施  发起      initative 积极性  倡议
 infinite 无穷的  无尽的     infinitive  动词不定式
 definitely  肯定的  明确的
 marvelous  非凡的 了不起的  wonderful  amazing
@@ -1615,6 +1616,72 @@ I saw him just as I came out of the office
 
 after a while ( a period of time)
 firstly  secondly;  for a start  anyway; for one thing   besides;
+at first / to begin with ----> after a while ----> in the end / eventually
+
+因为 because    所以 so     由于 as/since   否则 otherwise
+The plane was late due to bad weather.
+*? because + noun;   because of + adj
+because the weather is wonderful;    because of the wonderful weather
+
+*? so  therefore  as a result
+I have to go now, otherwise (否则)  I'll miss the last bus.
+as long as  只要  和。。。一样长
+You can borrow it as long as you bring it back by Thursday
+*? in case  假使 万一
+Take some money in case you need to get a taxi.
+I left early in order to miss the rush-hour traffic.
+roadwork  道路施工
+
+purchased here may be eaten on the premises. 这里买的可以堂食
+premise  前提  假设   premises 营业场所
+not in a position 没有资格
+
+*? commence 书面用词，正式程序，正式行动的开始
+The performance will commence from 7:00 pm.
+*? proceed 开始行动， 继续做
+Will passengers for Miami please proceed to [go to] gate 36.
+
+*! formal and informal english
+stuff: when others know what we are talking about.
+put this stuff in the cupboard
+
+what are you up to do this evening?     up to do  打算做啥？
+he's a mate of mine
+I can / can't make it.
+the thing is === the problem is
+the film is great (terrific)  or  a load of rubbish (terrible).
+*? terrific 极好的    terrify 使害怕 使恐惧
+he's a nice bloke (man)
+we go there often（quite a bit）
+bet 打赌  敢肯定
+I'm sure / bet you are hungry
+
+sole 唯一的， 专用的， 鞋底
+need more help === require further assistance
+grant (授予  给予) === give or allow
+We should be able to get / approximately 40 / (40 or so) on the coach.
+purchase  购买  采购 === buy
+
+除此之外， 还有  besides, in addition, what's more, as well as
+尽管， 虽然     although + 从句， despite,  in spite of + 词组,
+前面都还行，however, 后面不咋地！
+转折前，后都说明了，最后强调下是转折, though.
+
+while and whereas： different facts and situations
+Alex is very quick to understand, whereas/while the others are quite slow.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
