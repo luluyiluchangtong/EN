@@ -1442,7 +1442,7 @@ employ / take on(雇佣)   ten new drivers next year.
 stop === give up; go away === leave;  carry on === continue
 
 *todo 5/30
-*? hand out;  hand around; 
+*?  out;  hand around; 
 hand around on street.  在街上闲逛
 hand out   分发          hand out red envelopes  发红包
 distribute 分发  分配   distribute  drugs       发药品
@@ -1566,8 +1566,10 @@ ask me for advise  询问意见
 
 intent   专注的  目的
 attempt  试图  尝试的
+
 init  初始化  initiate 开始实施  发起      initative 积极性  倡议
 infinite 无穷的  无尽的     infinitive  动词不定式
+
 definitely  肯定的  明确的
 marvelous  非凡的 了不起的  wonderful  amazing
 I was delighted she passed her exam.
@@ -1576,7 +1578,9 @@ very+gradable adj:  said ice / good/ tired......
 absolutely / really + before extreme adj:
 absolutely marvelous
 
-embarrass 尴尬的  窘迫的
+*? embarrass 尴尬的  窘迫的    事件对当事人来说觉得 羞愧 尴尬。  主观上的难为情 
+*? awkward  令人尴尬的，  使人难堪的   事件客观成面上的 尴尬， 羞愧。 客观上的尴尬状况
+
 very pleased === delighted
 very nice === marvelous  wonderful  
 very important === essential  本质的 必不可少的
